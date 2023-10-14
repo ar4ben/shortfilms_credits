@@ -1,34 +1,34 @@
 # SOUND ATTRIBUTIONS
 
-- Spooky **Victor_Natas** | License: Creative Commons 0
-- zombie sounds.wav **bradsimkisshill** | License: Creative Commons 0
-- Smash.ogg **egomassive** | License: Creative Commons 0
-- Woman vomiting into toilet.wav **LOVEBURD** | License: Creative Commons 0
-- cine1.WAV **phantastonia** | License: Attribution 4.0
-- Tensionik **Jackfluck** | License: Attribution 4.0
-- HEART BEAT OF A DREAM.wav **metrostock99** | License: Creative Commons 0
-- Scary Sfx.wav **batuhansezer** | License: Attribution 4.0
-- dark riser buildup **Eponn** | License: Creative Commons 0
-- DSGNRise_Tonal Rise Transition With Drone 1_EM.mp3 **newlocknew** | License: Attribution NonCommercial 4.0
-- Door Slammed.wav **MATRIXXX_** | License: Creative Commons 0
-- Door_slam_1.wav **deleted_user_2104797** | License: Creative Commons 0
-- slam. **horcasitas** | License: Creative Commons 0
-- Sick_In_Toilet_01.wav **Koops** | License: Attribution 4.0
-- Doorbell **jorickhoofd** | License: Attribution 4.0
-- Chilling Stare.wav **MATRIXXX_** | License: Creative Commons 0
-- Synth Suspense Scary Background Ambient **Beetlemuse** | License: Attribution 4.0
-- Phone dialtone / dialing tone (Germany) **michaelkoehler** | License: Creative Commons 0
-- Busy.wav **CGEffex** | License: Attribution 4.0
-- Increasingpitch.aif **aliceemily** | License: Creative Commons 0
-- Parking Garage - Walla, Man Scream **soundadvices** | License: Attribution 4.0
-- Heart beat 2.Calm rhythm.Blood Flows In The veins(6lrs).wav **newlocknew** | License: Attribution NonCommercial 4.0
-- Sirens.wav **tlabrant1** | License: Creative Commons 0
-- Car alarm **aaron.drh** | License: Creative Commons 0
-- Creepy Demonic Horror Sound 1 (Vol 004) **AlesiaDavina** | License: Attribution 4.0
-- dark5.WAV **phantastonia** | License: Attribution 4.0
-- Scary Sound Effect: Paranormal 3 (Vol 001) **AlesiaDavina** | License: Attribution 4.0
-- on speed.wav **RichHeard** | License: Attribution NonCommercial 3.0
-- Autumn wind and dry leaves.wav **Stek59** | License: Creative Commons 0
-- Page Fluttering; Strong Wind.wav **Rslebs** | License: Attribution 4.0
-- Grass step.wav **Hawkeye_Sprout** | License: Attribution 4.0
-- footsteps jog flat sneaker **adda_records** | License: Attribution 3.0
+- A quiet action sequence.wav by **Sami_Hiltunen** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Riser_mid_02.wav by **balolo** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Spooky by **Victor_Natas** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- zombie sounds.wav by **bradsimkisshill** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Smash.ogg by **egomassive** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Woman vomiting into toilet.wav by **LOVEBURD** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- cine1.WAV by **phantastonia** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Tensionik by **Jackfluck** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- HEART BEAT OF A DREAM.wav by **metrostock99** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Scary Sfx.wav by **batuhansezer** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- dark riser buildup by **Eponn** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Door Slammed.wav by **MATRIXXX_** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Door_slam_1.wav by **deleted_user_2104797** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- slam. by **horcasitas** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Sick_In_Toilet_01.wav by **Koops** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Doorbell by **jorickhoofd** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Chilling Stare.wav by **MATRIXXX_** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Synth Suspense Scary Background Ambient by **Beetlemuse** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Phone dialtone / dialing tone (Germany) by **michaelkoehler** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Busy.wav by **CGEffex** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Increasingpitch.aif by **aliceemily** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Parking Garage - Walla, Man Scream by **soundadvices** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Heartbeat.wav by **jobro** | [License: Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
+- Sirens.wav by **tlabrant1** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Car alarm by **aaron.drh** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Creepy Demonic Horror Sound 1 (Vol 004) by **AlesiaDavina** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- dark5.WAV by **phantastonia** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Scary Sound Effect: Paranormal 3 (Vol 001) by **AlesiaDavina** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Autumn wind and dry leaves.wav by **Stek59** | [License: Creative Commons 0](https://creativecommons.org/publicdomain/zero/1.0/)
+- Page Fluttering; Strong Wind.wav by **Rslebs** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Grass step.wav by **Hawkeye_Sprout** | [License: Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+- footsteps jog flat sneaker by **adda_records** | [License: Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
